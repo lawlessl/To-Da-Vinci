@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/To-Da-Vinci/static/css/main.f855e6bc.css",
-    "main.js": "/To-Da-Vinci/static/js/main.9b3b67cb.js",
+    "main.css": "/To-Da-Vinci/static/css/main.e194a552.css",
+    "main.js": "/To-Da-Vinci/static/js/main.43ebbe85.js",
     "static/js/453.f4ad1a20.chunk.js": "/To-Da-Vinci/static/js/453.f4ad1a20.chunk.js",
-    "static/media/logo.svg": "/To-Da-Vinci/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/To-Da-Vinci/index.html",
-    "main.f855e6bc.css.map": "/To-Da-Vinci/static/css/main.f855e6bc.css.map",
-    "main.9b3b67cb.js.map": "/To-Da-Vinci/static/js/main.9b3b67cb.js.map",
+    "main.e194a552.css.map": "/To-Da-Vinci/static/css/main.e194a552.css.map",
+    "main.43ebbe85.js.map": "/To-Da-Vinci/static/js/main.43ebbe85.js.map",
     "453.f4ad1a20.chunk.js.map": "/To-Da-Vinci/static/js/453.f4ad1a20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9b3b67cb.js"
+    "static/css/main.e194a552.css",
+    "static/js/main.43ebbe85.js"
   ]
 }
