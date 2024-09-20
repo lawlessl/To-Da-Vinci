@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/To-Da-Vinci/static/css/main.e194a552.css",
-    "main.js": "/To-Da-Vinci/static/js/main.43ebbe85.js",
+    "main.css": "/To-Da-Vinci/static/css/main.e991557b.css",
+    "main.js": "/To-Da-Vinci/static/js/main.eac99925.js",
     "static/js/453.f4ad1a20.chunk.js": "/To-Da-Vinci/static/js/453.f4ad1a20.chunk.js",
     "index.html": "/To-Da-Vinci/index.html",
-    "main.e194a552.css.map": "/To-Da-Vinci/static/css/main.e194a552.css.map",
-    "main.43ebbe85.js.map": "/To-Da-Vinci/static/js/main.43ebbe85.js.map",
+    "main.e991557b.css.map": "/To-Da-Vinci/static/css/main.e991557b.css.map",
+    "main.eac99925.js.map": "/To-Da-Vinci/static/js/main.eac99925.js.map",
     "453.f4ad1a20.chunk.js.map": "/To-Da-Vinci/static/js/453.f4ad1a20.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e194a552.css",
-    "static/js/main.43ebbe85.js"
+    "static/css/main.e991557b.css",
+    "static/js/main.eac99925.js"
   ]
 }
