@@ -1,8 +1,11 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CS4973 In-Class Assignment
+Create a simple to-do list only using an LLM in 20-30 minutes
 
 This project is hosted at https://lawlessl.github.io/To-Da-Vinci/
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
