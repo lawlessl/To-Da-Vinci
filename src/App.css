@@ -14,12 +14,17 @@ body {
 	width: 300px;
 	text-align: center;
 }
-input {
+input[type='text'],
+input[type='date'],
+textarea,
+select {
 	width: calc(100% - 22px);
 	padding: 10px;
 	margin-bottom: 10px;
 	border: 1px solid #ccc;
 	border-radius: 4px;
+	display: block;
+	margin: 10px auto;
 }
 button {
 	padding: 10px 20px;
@@ -39,11 +44,29 @@ li {
 	margin-bottom: 10px;
 	border: 1px solid #ddd;
 	border-radius: 4px;
+}
+.task-header {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
+.task-header .toggle {
+	cursor: pointer;
+	margin-right: 10px;
+}
+.task-details {
+	padding: 10px;
+	background: #efefef;
+	border-radius: 4px;
+	margin-top: 10px;
+}
 .delete {
 	cursor: pointer;
 	color: red;
+}
+.delete i {
+	font-size: 1.2em;
+}
+i {
+	pointer-events: none; /* ensures clicking on icon doesn't affect other elements beneath */
 }
